@@ -411,7 +411,7 @@ async function main() {
   await benchmarkCreateNewUser(1,1);
   //await benchmarkGetUser();
  //await benchmarkDeleteUser(464037,1);
-  await benchmarkUpdateUser(467730,467731);
+  //await benchmarkUpdateUser(467730,467731);
 
 
   //updateUser(26007, 26014);
